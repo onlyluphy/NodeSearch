@@ -1,0 +1,4 @@
+requests
+termcolor
+pyExploitDb
+beautifulsoup4
